@@ -1,0 +1,7 @@
+{
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "programmer": "usbasp",
+    "sketch": "Spot_welder_MS2.ino",
+    "port": "COM4"
+}
